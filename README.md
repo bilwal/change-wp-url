@@ -16,6 +16,9 @@ Use of this code:<br>
 5. Change $password variable value as your database username password.<br>
 6. If your wordpress site used custom db prefix than change your $db_prefix variable value.<br>
 <br>
+<img src="http://res.cloudinary.com/robinbd/image/upload/v1436865879/change_wp_site_url_0_quwlsx.jpg" alt="Wp Change Url">
+<img src="http://res.cloudinary.com/robinbd/image/upload/v1436865879/change_wp_site_url_1_tmmhvk.jpg" alt="Wp Change Url"><br>
+
 Thanks<br>
 
 Have a good day !<br>
