@@ -1,4 +1,4 @@
-# Change-WP-Site-Url<br>
+# Change Your Wordpress Site Url (If you don't have any access without ftp)
 Change you wp site url if you have only ftp access.(If you don't have cpanel or mysql or wp admin access)
 
 This tools is important for these situation:<br>
